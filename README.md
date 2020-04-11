@@ -1,3 +1,9 @@
-## ML2020
+# ML2020
 
-### CNN model parameters
+B06902060
+
+### Courese Website
+* [Courese Website](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
+
+### Release
+* CNN model parameters
