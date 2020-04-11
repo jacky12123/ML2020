@@ -1,4 +1,3 @@
 ## ML2020
----
 
-#### CNN model parameters
+### CNN model parameters
