@@ -9,3 +9,6 @@ B06902060
 | ------- | --------------- | ------- |
 | Public  | strong baseline | 5.28046 |
 | Private |                 |         |
+
+### Conclusion
+- Add double terms or cubic terms may be better
