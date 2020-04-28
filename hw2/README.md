@@ -8,4 +8,7 @@ B06902060
 |         |      Level      |  Score  |
 | ------- | --------------- | ------- |
 | Public  | strong baseline | 0.89305 |
-| Private |                 |         |
+| Private | simple baseline | 0.88943 |
+
+### Conclusion
+- One hot encoding or Add double terms, cubic terms may be better
