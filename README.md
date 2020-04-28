@@ -7,3 +7,4 @@ B06902060
 
 ### Release
 * CNN model parameters
+* RNN model parameters
