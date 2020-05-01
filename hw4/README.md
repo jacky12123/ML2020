@@ -8,4 +8,4 @@ B06902060
 |         | Level           | Score   |
 | ------- | --------------- | ------- |
 | Public  | strong baseline | 0.82347 |
-| Private |                 |         |
+| Private | strong baseline | 0.82225 |
