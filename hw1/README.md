@@ -8,4 +8,7 @@ B06902060
 |         |      Level      |  Score  |
 | ------- | --------------- | ------- |
 | Public  | strong baseline | 5.28046 |
-| Private |                 |         |
+| Private | simple baseline | 7.44212 |
+
+### Conclusion
+- Add double terms or cubic terms may be better
